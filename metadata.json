@@ -1,0 +1,5 @@
+{
+  "name": "JHF Laptop Zone",
+  "description": "Full-stack Laptop Sales, Inventory & EMI Management System with Black & Neon Green UI.",
+  "requestFramePermissions": ["camera"]
+}
